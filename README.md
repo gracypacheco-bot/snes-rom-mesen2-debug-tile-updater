@@ -29,7 +29,7 @@ If no → direct insert.
 
 Save final .sfc or .smc.
 
-tile_editor.bat
+# tile_editor.bat
 @echo off
 title Mesen2 Tile/Palette Editor
 
